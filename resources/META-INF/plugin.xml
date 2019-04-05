@@ -1,0 +1,20 @@
+<idea-plugin>
+  <id>com.today-.spaceday.plugin</id>
+  <name>SpaceDay</name>
+  <version>1.0</version>
+  <vendor email="today-@ygithub.com" url="https://github.com/today-">Today-</vendor>
+
+  <description><![CDATA[
+      Theme for JetBrains products inspired by SpaceGray theme
+    ]]></description>
+
+  <idea-version since-build="173.0"/>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="57d24882-2b6d-421e-9ca4-c8414e171693" path="/SpaceDay.theme.json"/>
+  </extensions>
+
+  <actions>
+  </actions>
+
+</idea-plugin>
