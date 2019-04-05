@@ -2,7 +2,7 @@
   "name": "SpaceDay",
   "dark": true,
   "author": "today-",
-  "editorScheme": "/SpaceDay.xml",
+  "editorScheme": "/themes/SpaceDay.xml",
   "ui": {
     "*": {
       "background": "#3B4351",
@@ -17,9 +17,10 @@
       "selectionForegroundInactive": "#C0C5CE",
       "selectionInactiveForeground": "#C0C5CE",
       "grayFilter": "-70,-70,100",
-      "text.grayFilter": "-15,-10,100"
+      "text.grayFilter": "-15,-10,100",
+      "lightSelectionBackground": "#2b323d",
+      "lightSelectionInactiveBackground": "#2b323d"
     },
-
     "ActionButton": {
       "hoverBackground": "#466D94",
       "pressedBackground": "#515C6B",
@@ -92,6 +93,7 @@
       "indeterminateStartColor": "#596a7f"
     },
 
+    "Table.stripeColor": "#404a58",
 
     "textText": "#C0C5CE",
 
@@ -152,6 +154,11 @@
     "HelpTooltip.foreground": "#bfbfbf",
     "HelpTooltip.shortcutForeground": "#878787",
     "HelpTooltip.borderColor": "#636569",
+
+    "Notification": {
+      "background": "#3B4351",
+      "borderColor": "#3B4351"
+    },
 
     "ValidationTooltip.errorBorderColor": "#73454B",
     "ValidationTooltip.errorBackground": "#593D41",
@@ -227,8 +234,8 @@
       "Actions.Red": "#e74848",
       "Actions.GreyInline": "#99A6BB",
       "Actions.GreyInline.Dark": "#99A6BB",
-      "Checkbox.Background.Default": "#3B4351",
-      "Checkbox.Background.Default.Dark": "#3B4351",
+      "Checkbox.Background.Default": "#2f3644",
+      "Checkbox.Background.Default.Dark": "#2f3644",
       "Checkbox.Foreground.Selected": "#99A6BB",
       "Checkbox.Foreground.Selected.Dark": "#99A6BB",
       "Checkbox.Border.Default": "#495563",
