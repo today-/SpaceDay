@@ -8,7 +8,7 @@
       Theme for JetBrains products inspired by SpaceGray theme
     ]]></description>
 
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="57d24882-2b6d-421e-9ca4-c8414e171693" path="/SpaceDay.theme.json"/>

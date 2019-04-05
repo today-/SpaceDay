@@ -13,9 +13,6 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="9f4042" />
     <option name="DOCUMENTATION_COLOR" value="3b4351" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="3b4351" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="3b4351" />
-    <option name="FILESTATUS_MODIFIED" value="b8cd44" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="272c37" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
@@ -33,7 +30,20 @@
     <option name="RIGHT_MARGIN_COLOR" value="424a59" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="4e5668" />
+    <option name="SELECTION_BACKGROUND" value="5974ab" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2f3644" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="3b4351" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e6" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="303540" />
+    <option name="ScrollBar.Transparent.thumbColor" value="303540" />
+    <option name="ScrollBar.Transparent.trackColor" value="242934" />
+    <option name="ScrollBar.background" value="343c4a" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="3b4351" />
+    <option name="ScrollBar.hoverThumbColor" value="3b4351" />
+    <option name="ScrollBar.hoverTrackColor" value="242934" />
+    <option name="ScrollBar.thumbBorderColor" value="2f3644" />
+    <option name="ScrollBar.thumbColor" value="4c5668" />
     <option name="TEARLINE_COLOR" value="414651" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="1f212d" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="222530" />
@@ -43,20 +53,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="2e343f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="41713f" />
-
-    <option name="ScrollBar.background" value="343c4a"/>
-    <option name="ScrollBar.thumbColor" value="4c5668"/>
-    <option name="ScrollBar.thumbBorderColor" value="2f3644"/>
-    <option name="ScrollBar.hoverTrackColor" value="242934"/>
-    <option name="ScrollBar.hoverThumbColor" value="3B4351"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="3B4351"/>
-
-    <option name="ScrollBar.Transparent.trackColor" value="242934"/>
-    <option name="ScrollBar.Transparent.thumbColor" value="303540"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="303540"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="E6E6E65A"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="3B4351"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2f3644"/>
+    <option name="SELECTION_FOREGROUND" value="ffffff" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -916,6 +913,29 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
+    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="RUBY_HEREDOC_CONTENT">
+      <value>
+        <option name="FOREGROUND" value="297bde" />
+      </value>
+    </option>
+    <option name="RUBY_HEREDOC_ID">
+      <value>
+        <option name="FOREGROUND" value="8fa1b3" />
+      </value>
+    </option>
+    <option name="RUBY_LINE_CONTINUATION">
+      <value />
+    </option>
+    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="RUBY_REGEXP">
+      <value>
+        <option name="FOREGROUND" value="800000" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="8080" />
@@ -1074,29 +1094,5 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="RUBY_HASH_ASSOC" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="RUBY_HEREDOC_CONTENT">
-      <value>
-        <option name="FOREGROUND" value="297bde" />
-      </value>
-    </option>
-    <option name="RUBY_HEREDOC_ID">
-      <value>
-        <option name="FOREGROUND" value="8fa1b3" />
-      </value>
-    </option>
-    <option name="RUBY_LINE_CONTINUATION">
-      <value />
-    </option>
-    <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="RUBY_REGEXP">
-      <value>
-        <option name="FOREGROUND" value="800000" />
-      </value>
-    </option>
   </attributes>
 </scheme>
