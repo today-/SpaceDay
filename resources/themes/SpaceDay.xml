@@ -14,6 +14,9 @@
     <option name="DELETED_LINES_COLOR" value="9f4042" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1b202c" />
     <option name="DOCUMENTATION_COLOR" value="3b4351" />
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="485160" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="272c37" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
@@ -25,6 +28,7 @@
     <option name="INDENT_GUIDE" value="333a45" />
     <option name="INFORMATION_HINT" value="3b4351" />
     <option name="LINE_NUMBERS_COLOR" value="757a84" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="343d48" />
     <option name="MODIFIED_LINES_COLOR" value="427140" />
     <option name="NOTIFICATION_BACKGROUND" value="383e4d" />
@@ -46,7 +50,7 @@
     <option name="ScrollBar.hoverTrackColor" value="242934" />
     <option name="ScrollBar.thumbBorderColor" value="2f3644" />
     <option name="ScrollBar.thumbColor" value="4c5668" />
-    <option name="TEARLINE_COLOR" value="414651" />
+    <option name="TEARLINE_COLOR" value="4e5668" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="1f212d" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="222530" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="2d323d" />
@@ -1057,6 +1061,9 @@
       <value>
         <option name="FOREGROUND" value="66d9ef" />
       </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES">
+      <value />
     </option>
     <option name="TDIFF_FUZZY_MISMATCHED">
       <value>
