@@ -12,6 +12,7 @@
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="9f4042" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1b202c" />
     <option name="DOCUMENTATION_COLOR" value="3b4351" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="272c37" />
@@ -54,7 +55,6 @@
     <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="2e343f" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="41713f" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1b202c" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -481,6 +481,18 @@
     <option name="GHERKIN_REGEXP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="297bde" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.REMOTE_BRANCH_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="256334" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.STATUS_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="651b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GOTO_LABEL">
