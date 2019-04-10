@@ -112,7 +112,7 @@
     },
     "Menu": {
       "separatorColor": "#333A48",
-      "borderColor": "#36404B"
+      "borderColor": "#3e4854"
     },
     "MenuBar": {
       "borderColor": "#343d48",
@@ -143,7 +143,7 @@
     },
     "Notification": {
       "background": "#3B4351",
-      "borderColor": "#3B4351"
+      "borderColor": "#3f4a58"
     },
     "ValidationTooltip": {
       "errorBorderColor": "#73454B",
@@ -158,7 +158,6 @@
       "Toolbar.background": "#3c3f41",
       "Toolbar.borderColor": "#4a4e52"
     },
-    "ToggleButton.buttonColor": "#3B4351",
     "SearchEverywhere": {
       "Header.background": "#3b4351",
       "Tab.selectedBackground": "#45515f",
@@ -197,6 +196,7 @@
       "background": "#242934"
     },
 
+    "ToggleButton.buttonColor": "#3B4351",
     "textText": "#C0C5CE",
     "OptionPane.messageForeground": "#C0C5CE",
     "Label.foreground": "#C0C5CE",
@@ -211,7 +211,7 @@
     "FormattedTextField.background": "#272E3B",
     "ComboBoxButton.background": "#3c3f41",
     "NavBar.borderColor": "#404a58",
-    "StatusBar.borderColor": "#2c2c2c",
+    "StatusBar.borderColor": "#2c3441",
     "PopupMenu.translucentBackground": "#373E4B",
     "ToolTip.background": "#373E4B",
     "Spinner.background": "#3B4351",
@@ -237,6 +237,10 @@
       "Checkbox.Foreground.Selected.Dark": "#99A6BB",
       "Checkbox.Border.Default": "#495563",
       "Checkbox.Border.Default.Dark": "#495563",
+      "Checkbox.Background.Disabled.Default": "#313441",
+      "Checkbox.Background.Disabled.Dark": "#313441",
+      "Checkbox.Border.Disabled": "#495563",
+      "Checkbox.Border.Disabled.Dark": "#495563",
       "Objects.Grey": "#99A6BB"
     }
   }

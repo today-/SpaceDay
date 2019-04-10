@@ -1,11 +1,11 @@
 <idea-plugin>
   <id>com.github.today-.theme.spaceday</id>
   <name>SpaceDay Theme</name>
-  <version>1.4</version>
+  <version>1.5</version>
   <vendor email="today-@github.com" url="https://github.com/today-/SpaceDay">Today-</vendor>
 
   <description><![CDATA[
-      Theme for JetBrains products inspired by SpaceGray theme
+      Theme for JetBrains products inspired by SpaceGray color scheme
     ]]></description>
 
   <idea-version since-build="191.0"/>

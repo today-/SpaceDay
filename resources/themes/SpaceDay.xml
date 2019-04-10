@@ -2,7 +2,7 @@
   <metaInfo>
     <property name="created">2019-04-05T12:24:22</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-04-05T12:24:24</property>
+    <property name="modified">2019-04-10T11:57:24</property>
     <property name="originalScheme">SpaceDay</property>
   </metaInfo>
   <colors>
@@ -15,7 +15,7 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1b202c" />
     <option name="DOCUMENTATION_COLOR" value="3b4351" />
     <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="485160" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="636e7d" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="272c37" />
@@ -39,10 +39,10 @@
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2f3644" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="3b4351" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e6" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="303540" />
-    <option name="ScrollBar.Transparent.thumbColor" value="303540" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="484d5a" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="242934" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="2f3644" />
+    <option name="ScrollBar.Transparent.thumbColor" value="3f4450" />
     <option name="ScrollBar.Transparent.trackColor" value="242934" />
     <option name="ScrollBar.background" value="343c4a" />
     <option name="ScrollBar.hoverThumbBorderColor" value="3b4351" />
