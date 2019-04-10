@@ -38,11 +38,11 @@
     <option name="SELECTION_BACKGROUND" value="5974ab" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2f3644" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="484d5a" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="242934" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="2f3644" />
-    <option name="ScrollBar.Transparent.thumbColor" value="3f4450" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2f364488" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="484d5a88" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="24293488" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="2f364488" />
+    <option name="ScrollBar.Transparent.thumbColor" value="3f445088" />
     <option name="ScrollBar.Transparent.trackColor" value="242934" />
     <option name="ScrollBar.background" value="343c4a" />
     <option name="ScrollBar.hoverThumbBorderColor" value="3b4351" />
