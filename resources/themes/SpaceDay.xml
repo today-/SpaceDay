@@ -15,7 +15,11 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1b202c" />
     <option name="DOCUMENTATION_COLOR" value="3b4351" />
     <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="636e7d" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="5e6a7a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="5e6a7a" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="272c37" />

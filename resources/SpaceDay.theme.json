@@ -153,10 +153,12 @@
     },
     "Popup": {
       "Header.inactiveBackground": "#434649",
-      "borderColor": "#616161",
-      "inactiveBorderColor": "#565656",
+      "borderColor": "#45505e",
+	  "separatorColor": "#45505e",
+      "inactiveBorderColor": "#45505e",
       "Toolbar.background": "#3c3f41",
-      "Toolbar.borderColor": "#4a4e52"
+      "Toolbar.borderColor": "#4a4e52",
+	  "separatorForeground": "#767881"
     },
     "SearchEverywhere": {
       "Header.background": "#3b4351",
@@ -171,7 +173,7 @@
     },
     "Plugins": {
       "background": "#242934",
-      "SearchField.borderColor": "#4f616e",
+      "SearchField.borderColor": "#485160",
       "SectionHeader.background": "#3B4351",
       "SectionHeader.foreground": "#C0C5CE",
       "Tab.selectedBackground": "#434E60",
@@ -192,7 +194,7 @@
       "thumbColor": "#4c5668"
     },
     "Tree": {
-      "foreground": "#878787",
+      "foreground": "#86878e",
       "background": "#242934"
     },
 
@@ -211,12 +213,11 @@
     "FormattedTextField.background": "#272E3B",
     "ComboBoxButton.background": "#3c3f41",
     "NavBar.borderColor": "#404a58",
-    "StatusBar.borderColor": "#2c3441",
+    "StatusBar.borderColor": "#343a48",
     "PopupMenu.translucentBackground": "#373E4B",
     "ToolTip.background": "#373E4B",
     "Spinner.background": "#3B4351",
     "SplitPane.highlight": "#3c3f41",
-	"Tree.foreground": "#747680",
     "RadioButtonMenuItem.background": "#2f3644",
 
     "CompletionPopup.nonFocusedState": "true",
