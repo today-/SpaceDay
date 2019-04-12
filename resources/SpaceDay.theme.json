@@ -164,7 +164,7 @@
       "Header.background": "#3b4351",
       "Tab.selectedBackground": "#45515f",
       "Tab.selectedForeground": "#C0C5CE",
-      "SearchField.background": "#272e3b",
+      "SearchField.background": "#242934",
       "SearchField.borderColor": "#2b323d",
       "SearchField.infoForeground": "#C0C5CE",
       "List.separatorColor": "#4f616e",
@@ -177,7 +177,7 @@
       "SectionHeader.background": "#3B4351",
       "SectionHeader.foreground": "#C0C5CE",
       "Tab.selectedBackground": "#434E60",
-      "SearchField.background": "#2f3644",
+      "SearchField.background": "#242934",
       "tagForeground": "#C0C5CE",
       "tagBackground": "#363d49",
       "Tab.hoverBackground": "#4f616e"
@@ -187,9 +187,9 @@
       "Transparent": {
         "hoverThumbColor": "#3B4351",
         "thumbBorderColor": "#2f3644",
-        "hoverTrackColor": "#242934",
+        "hoverTrackColor": "#24293400",
         "thumbColor": "#303540",
-        "trackColor": "#242934"
+        "trackColor": "#24293400"
       },
       "thumbColor": "#4c5668"
     },
@@ -227,7 +227,6 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Blue": "#b5b3ce",
       "Actions.Grey": "#99A6BB",
       "Actions.Red": "#e74848",
       "Actions.GreyInline": "#99A6BB",
