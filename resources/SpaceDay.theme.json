@@ -204,8 +204,8 @@
       "borderColor": "#343a48",
       "hoverMaskColor": "#3e4b5933",
       "underlineColor": "#4a88c7",
-      "inactiveColoredFileBackground": "#3c3f4199",
-      "inactiveUnderlineColor": "#282c37",
+      "inactiveColoredFileBackground": "#282C3799",
+      "inactiveUnderlineColor": "#466faa",
       "underlinedTabForeground": "#e7ecf5"
     },
 	"TitlePane.infoForeground": "#C0C5CE",
