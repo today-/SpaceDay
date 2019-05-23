@@ -98,7 +98,7 @@
       "indeterminateStartColor": "#596a7f"
     },
     "Table": {
-      "stripeColor": "#404a58",
+      "stripeColor": "#30374566",
       "gridColor": "#3B4351",
       "lightSelectionBackground": "#3B4351"
     },
@@ -191,12 +191,25 @@
         "thumbColor": "#303540",
         "trackColor": "#24293400"
       },
-      "thumbColor": "#4c5668"
+      "thumbColor": "#f43c4a",
+      "foreground": "#f43c4a"
     },
     "Tree": {
       "foreground": "#86878e",
-      "background": "#242934"
+      "background": "#242934",
+	  "hash": "#b8cfe500"
     },
+    "EditorTabs": {
+      "background": "#3b4351",
+      "borderColor": "#343a48",
+      "hoverMaskColor": "#3e4b5933",
+      "underlineColor": "#4a88c7",
+      "inactiveColoredFileBackground": "#3c3f4199",
+      "inactiveUnderlineColor": "#282c37",
+      "underlinedTabForeground": "#e7ecf5"
+    },
+	"TitlePane.infoForeground": "#C0C5CE",
+	"TitlePane.inactiveInfoForeground": "#a6abb4",	
 
     "ToggleButton.buttonColor": "#3B4351",
     "textText": "#C0C5CE",
