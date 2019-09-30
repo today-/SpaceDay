@@ -181,6 +181,7 @@
     "EditorTabs.inactiveColoredFileBackground": "#282C3799",
     "EditorTabs.inactiveUnderlineColor": "#466faa",
     "EditorTabs.underlinedTabForeground": "#e7ecf5",
+    "EditorTabs.hoverBackground": "#3b435155",
 
     "TitlePane.infoForeground": "#C0C5CE",
     "TitlePane.inactiveInfoForeground": "#a6abb4",
