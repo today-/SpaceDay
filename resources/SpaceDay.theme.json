@@ -91,6 +91,7 @@
     "Table.stripeColor": "#30374566",
     "Table.gridColor": "#3B4351",
     "Table.lightSelectionBackground": "#3B4351",
+    "Table.rowHeight": 24,
 
     "TabbedPane.disabledForeground": "#515C6B",
     "TabbedPane.underlineColor": "#515C6B",
@@ -173,6 +174,7 @@
     "Tree.foreground": "#86878e",
     "Tree.background": "#242934",
     "Tree.hash": "#b8cfe500",
+    "Tree.rowHeight": 24,
 
     "EditorTabs.background": "#3b4351",
     "EditorTabs.borderColor": "#343a48",
@@ -202,6 +204,7 @@
     "ComboBoxButton.background": "#3c3f41",
     "NavBar.borderColor": "#404a58",
     "StatusBar.borderColor": "#343a48",
+    "StatusBar.hoverBackground": "#4c5052",
     "PopupMenu.translucentBackground": "#373E4B",
     "ToolTip.background": "#373E4B",
     "Spinner.background": "#3B4351",

@@ -117,7 +117,7 @@
         <option name="BACKGROUND" value="3a2323" />
       </value>
     </option>
-	<option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ab7967" />
@@ -498,7 +498,7 @@
         <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
-	<option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d08770" />
@@ -968,12 +968,12 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
+    <option name="RUBY_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
     <option name="RUBY_CONSTANT_DECLARATION">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
-    <option name="RUBY_GVAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="297bde" />
@@ -988,15 +988,14 @@
       <value />
     </option>
     <option name="RUBY_LOCAL_VAR_ID" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="RUBY_METHOD_NAME" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="RUBY_NTH_REF" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="RUBY_PARAMDEF_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="800000" />
       </value>
     </option>
-	<option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="8080" />
