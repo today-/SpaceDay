@@ -133,7 +133,8 @@
     "ValidationTooltip.warningBorderColor": "#78550B",
     "ValidationTooltip.warningBackground": "#594E32",
 
-    "Popup.Header.inactiveBackground": "#434649",
+    "Popup.Header.activeBackground": "#3B4351",
+    "Popup.Header.inactiveBackground": "#414751",
     "Popup.borderColor": "#45505e",
     "Popup.separatorColor": "#45505e",
     "Popup.inactiveBorderColor": "#45505e",
@@ -171,7 +172,7 @@
     "ScrollBar.hoverThumbColor": "#4f616e",
     "ScrollBar.foreground": "#303540",
 
-    "Tree.foreground": "#86878e",
+    "Tree.foreground": "#727b8b",
     "Tree.background": "#242934",
     "Tree.hash": "#b8cfe500",
     "Tree.rowHeight": 24,
@@ -203,8 +204,8 @@
     "FormattedTextField.background": "#272E3B",
     "ComboBoxButton.background": "#3c3f41",
     "NavBar.borderColor": "#404a58",
-    "StatusBar.borderColor": "#343a48",
-    "StatusBar.hoverBackground": "#4c5052",
+    "StatusBar.borderColor": "#404856",
+    "StatusBar.hoverBackground": "#4b6eaf",
     "PopupMenu.translucentBackground": "#373E4B",
     "ToolTip.background": "#373E4B",
     "Spinner.background": "#3B4351",
@@ -213,7 +214,6 @@
 
     "CompletionPopup.nonFocusedState": "true",
     "SidePanel.background": "#2b303b",
-    "Popup.Header.activeBackground": "#3B4351",
     "Slider.focus": "#C0C5CE"
   },
   "icons": {
