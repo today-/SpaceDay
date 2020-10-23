@@ -65,7 +65,9 @@
     "ComboBox.ArrowButton.background": "#303843",
     "ComboBox.ArrowButton.iconColor": "#9A9DA1",
     "ComboBox.ArrowButton.disabledIconColor": "#535258",
+    "ComboBoxButton.background": "#272e3b",
 
+    "textText": "#C0C5CE",
     "EditorPane.inactiveBackground": "#272E3B",
     "EditorPane.inactiveForeground": "#C0C5CE",
 
@@ -142,6 +144,9 @@
     "Popup.Toolbar.borderColor": "#4a4e52",
     "Popup.separatorForeground": "#767881",
 
+    "Label.foreground": "#C0C5CE",
+    "Label.selectedForeground": "#C0C5CE",
+
     "SearchEverywhere.Header.background": "#3b4351",
     "SearchEverywhere.Tab.selectedBackground": "#45515f",
     "SearchEverywhere.Tab.selectedForeground": "#C0C5CE",
@@ -190,10 +195,8 @@
     "TitlePane.inactiveInfoForeground": "#a6abb4",
 
     "ToggleButton.buttonColor": "#3B4351",
-    "textText": "#C0C5CE",
     "OptionPane.messageForeground": "#C0C5CE",
-    "Label.foreground": "#C0C5CE",
-    "Label.selectedForeground": "#C0C5CE",
+
     "TitledBorder.titleColor": "#C0C5CE",
     "window": "#3B4351",
     "Separator.separatorColor": "#2b323d",
@@ -202,7 +205,6 @@
     "PasswordField.background": "#272E3B",
     "ComboBox.nonEditableBackground": "#272E3B",
     "FormattedTextField.background": "#272E3B",
-    "ComboBoxButton.background": "#3c3f41",
     "NavBar.borderColor": "#404a58",
     "StatusBar.borderColor": "#404856",
     "StatusBar.hoverBackground": "#4b6eaf",
