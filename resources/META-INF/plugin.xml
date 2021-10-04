@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.github.today-.theme.spaceday</id>
   <name>SpaceDay Theme</name>
-  <version>1.11</version>
+  <version>1.12</version>
   <vendor email="today-@github.com" url="https://github.com/today-/SpaceDay">Today-</vendor>
 
   <description><![CDATA[
@@ -9,7 +9,7 @@
   ]]></description>
 
   <idea-version since-build="191.0"/>
-  
+
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
