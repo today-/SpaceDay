@@ -30,23 +30,25 @@
     "Borders.color": "#313744",
     "Borders.ContrastBorderColor": "#343a48",
 
-    "Button.arc": "6",
-    "Button.disabledText": "#6C7A93",
-    "Button.startBackground": "#5D626F",
-    "Button.endBackground": "#3F4656",
-    "Button.default.startBackground": "#384f6b",
-    "Button.default.endBackground": "#233143",
-    "Button.shadowColor": "#36363680",
-    "Button.shadowWidth": "#2",
-    "Button.default.foreground": "#C0C5CE",
-    "Button.disabledBorderColor": "#5e6060",
-    "Button.focusedBorderColor": "#3c3f41",
-    "Button.default.focusedBorderColor": "#3c3f41",
-    "Button.startBorderColor": "#5e6060",
-    "Button.default.startBorderColor": "#4c708c",
-    "Button.default.endBorderColor": "#4c708c",
-    "Button.default.focusColor": "#43688c",
-    "Button.endBorderColor": "#3B4351",
+    "Button": {
+      "arc": "6",
+      "disabledText": "#6C7A93",
+      "startBackground": "#5D626F",
+      "endBackground": "#3F4656",
+      "default.startBackground": "#384f6b",
+      "default.endBackground": "#233143",
+      "shadowColor": "#36363680",
+      "shadowWidth": "#2",
+      "default.foreground": "#C0C5CE",
+      "disabledBorderColor": "#5e6060",
+      "focusedBorderColor": "#3c3f41",
+      "default.focusedBorderColor": "#3c3f41",
+      "startBorderColor": "#5e6060",
+      "default.startBorderColor": "#4c708c",
+      "default.endBorderColor": "#4c708c",
+      "default.focusColor": "#43688c",
+      "endBorderColor": "#3B4351"
+    },
 
     "Component.arc": "5",
     "Component.focusWidth": "2",
@@ -60,12 +62,33 @@
     "Component.warningFocusColor": "#ac7920",
     "Component.inactiveWarningFocusColor": "#6e5324",
 
-    "ComboBox.disabledForeground": "#535258",
-    "ComboBox.ArrowButton.nonEditableBackground": "#303843",
-    "ComboBox.ArrowButton.background": "#303843",
-    "ComboBox.ArrowButton.iconColor": "#9A9DA1",
-    "ComboBox.ArrowButton.disabledIconColor": "#535258",
-    "ComboBoxButton.background": "#272e3b",
+    "ComboBox": {
+      "disabledForeground": "#535258",
+      "disabledBackground": "#373E4B",
+      "ArrowButton.nonEditableBackground": "#303843",
+      "ArrowButton.background": "#303843",
+      "ArrowButton.iconColor": "#9A9DA1",
+      "ArrowButton.disabledIconColor": "#535258"
+    },
+    "ComboBoxButton": {
+      "background": "#272e3b"
+    },
+
+    "control": "#3B4351",
+
+    "Plugins": {
+      "hoverBackground": "#2b323d",
+
+      "Button": {
+        "installForeground": "#C0C5CE",
+        "installBorderColor":"#5D626F",
+        "installFillForeground": "#C0C5CE",
+        "installFillBackground": "#384f6b",
+        "updateForeground":"#C0C5CE",
+        "updateBackground": "#233143",
+        "updateBorderColor": "#4c708c"
+      }
+    },
 
     "textText": "#C0C5CE",
     "EditorPane.inactiveBackground": "#272E3B",
