@@ -65,14 +65,13 @@
     "ComboBox": {
       "disabledForeground": "#535258",
       "disabledBackground": "#373E4B",
+      "nonEditableBackground": "#373E4B",
       "ArrowButton.nonEditableBackground": "#303843",
       "ArrowButton.background": "#303843",
       "ArrowButton.iconColor": "#9A9DA1",
       "ArrowButton.disabledIconColor": "#535258"
     },
-    "ComboBoxButton": {
-      "background": "#272e3b"
-    },
+    "ComboBoxButton.background": "#272e3b",
 
     "control": "#3B4351",
 
