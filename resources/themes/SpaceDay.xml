@@ -1,9 +1,8 @@
 <scheme name="SpaceDay" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-05T12:24:22</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-05-23T11:57:24</property>
-    <property name="originalScheme">SpaceDay</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2024.2.0.0</property>
+    <property name="originalScheme">SpaceDay copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="62b550" />
@@ -14,26 +13,18 @@
     <option name="DELETED_LINES_COLOR" value="9f4042" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1b202c" />
     <option name="DOCUMENTATION_COLOR" value="3b4351" />
-    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="5e6a7a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="5e6a7a" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="272c37" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="" />
     <option name="INDENT_GUIDE" value="333a45" />
     <option name="INFORMATION_HINT" value="3b4351" />
     <option name="LINE_NUMBERS_COLOR" value="757a84" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
-    <option name="LOOKUP_COLOR" value="3B4351" />
+    <option name="LOOKUP_COLOR" value="3b4351" />
     <option name="METHOD_SEPARATORS_COLOR" value="343d48" />
     <option name="MODIFIED_LINES_COLOR" value="427140" />
     <option name="NOTIFICATION_BACKGROUND" value="383e4d" />
@@ -70,11 +61,6 @@
       <value>
         <option name="EFFECT_COLOR" value="bf616a" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="c57633" />
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL">
@@ -118,7 +104,7 @@
         <option name="BACKGROUND" value="3a2323" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ab7967" />
@@ -504,7 +490,7 @@
         <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_COMMENT" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d08770" />
@@ -525,6 +511,7 @@
         <option name="FOREGROUND" value="65737e" />
       </value>
     </option>
+    <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d08770" />
@@ -1145,6 +1132,11 @@
         <option name="FOREGROUND" value="cf8670" />
       </value>
     </option>
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="bf616a" />
+      </value>
+    </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="cf865f" />
@@ -1158,7 +1150,7 @@
     <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA">
       <value>
-        <option name="FOREGROUND" value="bfc4cd" />
+        <option name="FOREGROUND" value="bf616a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
