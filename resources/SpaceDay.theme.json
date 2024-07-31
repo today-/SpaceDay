@@ -30,20 +30,13 @@
     },
 
     "EditorTabs": {
-      "tabInsets": "-2,12,-2,12"
+      "tabInsets": "-2,6,-2,6"
     },
     "ActionButton.hoverBackground": "#466D94",
     "ActionButton.pressedBackground": "#515C6B",
     "ActionButton.hoverBorderColor": "#3F4652",
     "ActionButton.pressedBorderColor": "#545664",
 
-    "Menu": {
-      "Selection": {
-        "arc": 5,
-        "innerInsets": "8,2,8,2",
-        "outerInsets": "2,2,2,2"
-      }
-    },
     "Borders.color": "#313744",
     "Borders.ContrastBorderColor": "#343a48",
 
@@ -88,6 +81,7 @@
       "ArrowButton.iconColor": "#9A9DA1",
       "ArrowButton.disabledIconColor": "#535258"
     },
+    "Notification.background": "#373E4B",
     "List": {
       "border": "4,0,4,0",
       "rowHeight": "24"
