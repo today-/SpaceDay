@@ -3,6 +3,7 @@
   "dark": true,
   "author": "today-",
   "editorScheme": "/themes/SpaceDay.xml",
+  "parentTheme": "Islands Dark",
   "colors": {
     "bg": "#3B4351",
     "fg": "#C0C5CE",
@@ -81,7 +82,6 @@
       "ArrowButton.iconColor": "#9A9DA1",
       "ArrowButton.disabledIconColor": "#535258"
     },
-    "Notification.background": "#373E4B",
     "List": {
       "border": "4,0,4,0",
       "rowHeight": "24"
@@ -238,7 +238,7 @@
     "ComboBox.nonEditableBackground": "#272E3B",
     "FormattedTextField.background": "#272E3B",
     "NavBar.borderColor": "#404a58",
-    "StatusBar.borderColor": "#404856",
+    "StatusBar.borderColor": "#40485600",
     "StatusBar.hoverBackground": "#4b6eaf",
     "PopupMenu.translucentBackground": "#373E4B",
     "ToolTip.background": "#373E4B",
@@ -247,7 +247,16 @@
     "RadioButtonMenuItem.background": "#2f3644",
 
     "SidePanel.background": "#2b303b",
-    "Slider.focus": "fg"
+    "Slider.focus": "fg",
+
+    "ToolWindow.Stripe.borderColor": "#353D4B00",
+    "MainToolbar.borderColor": "#353D4B00",
+    "MainWindow.background": "#3B4351",
+    "Island.borderColor": "#3B4351",
+    "EditorTabs.underlinedBorderColor": "#4a88c7",
+    "EditorTabs.inactiveUnderlinedTabBorderColor": "#466faa",
+    "EditorTabs.underlinedTabBackground": "#454E5E",
+    "EditorTabs.inactiveUnderlinedTabBackground": "#3B4351"
   },
   "icons": {
     "ColorPalette": {
