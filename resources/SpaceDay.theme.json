@@ -252,6 +252,7 @@
     "MainToolbar.borderColor": "#353D4B00",
     "MainWindow.background": "#3B4351",
     "Island.borderColor": "#3B4351",
+    "Island.inactiveAlpha": 0.15,
     "EditorTabs.underlinedBorderColor": "#4a88c7",
     "EditorTabs.inactiveUnderlinedTabBorderColor": "#466faa",
     "EditorTabs.underlinedTabBackground": "#454E5E",
